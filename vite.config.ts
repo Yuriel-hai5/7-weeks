@@ -74,5 +74,5 @@ export default defineConfig({
       '@': resolve(__dirname, 'src'),
     },
   },
-  base: '/7-weeks/',
+  base: './',
 })
